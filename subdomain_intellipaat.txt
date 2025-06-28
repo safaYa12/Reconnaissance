@@ -1,0 +1,416 @@
+sublist3r -d intellipaat.com
+
+www.intellipaat.com
+cdn.intellipaat.com
+www.cdn.intellipaat.com
+cpanel.intellipaat.com
+cpcalendars.intellipaat.com
+cpcontacts.intellipaat.com
+learn.intellipaat.com
+apps.learn.intellipaat.com
+compete.learn.intellipaat.com
+courses.learn.intellipaat.com
+preview.learn.intellipaat.com
+studio.learn.intellipaat.com
+support.learn.intellipaat.com
+mail.intellipaat.com
+unsubscribe.intellipaat.com
+webdisk.intellipaat.com
+
+amass enum -d intellipaat.comy
+
+
+intellipaat.com (FQDN) --> mx_record --> alt3.aspmx.l.google.com (FQDN)
+intellipaat.com (FQDN) --> mx_record --> alt4.aspmx.l.google.com (FQDN)
+intellipaat.com (FQDN) --> mx_record --> aspmx.l.google.com (FQDN)
+intellipaat.com (FQDN) --> mx_record --> alt1.aspmx.l.google.com (FQDN)
+intellipaat.com (FQDN) --> mx_record --> alt2.aspmx.l.google.com (FQDN)
+intellipaat.com (FQDN) --> ns_record --> scott.ns.cloudflare.com (FQDN)
+intellipaat.com (FQDN) --> ns_record --> june.ns.cloudflare.com (FQDN)
+intellipaat.com (FQDN) --> a_record --> 104.18.26.176 (IPAddress)
+intellipaat.com (FQDN) --> a_record --> 104.18.27.176 (IPAddress)
+intellipaat.com (FQDN) --> aaaa_record --> 2606:4700::6812:1ab0 (IPAddress)
+intellipaat.com (FQDN) --> aaaa_record --> 2606:4700::6812:1bb0 (IPAddress)
+unsubscribe.intellipaat.com (FQDN) --> cname_record --> unsubscribes.ceipal.com (FQDN)
+test.intellipaat.com (FQDN) --> a_record --> 104.18.27.176 (IPAddress)
+test.intellipaat.com (FQDN) --> a_record --> 104.18.26.176 (IPAddress)
+test.intellipaat.com (FQDN) --> aaaa_record --> 2606:4700::6812:1bb0 (IPAddress)
+test.intellipaat.com (FQDN) --> aaaa_record --> 2606:4700::6812:1ab0 (IPAddress)
+104.16.0.0/14 (Netblock) --> contains --> 104.18.26.176 (IPAddress)
+104.16.0.0/14 (Netblock) --> contains --> 104.18.27.176 (IPAddress)
+2606:4700::/47 (Netblock) --> contains --> 2606:4700::6812:1ab0 (IPAddress)
+2606:4700::/47 (Netblock) --> contains --> 2606:4700::6812:1bb0 (IPAddress)
+13335 (ASN) --> managed_by --> CLOUDFLARENET - Cloudflare, Inc. (RIROrganization)
+13335 (ASN) --> announces --> 104.16.0.0/14 (Netblock)
+13335 (ASN) --> announces --> 2606:4700::/47 (Netblock)
+aspmx.l.google.com (FQDN) --> a_record --> 142.251.2.27 (IPAddress)
+aspmx.l.google.com (FQDN) --> aaaa_record --> 2607:f8b0:4023:c06::1a (IPAddress)
+alt1.aspmx.l.google.com (FQDN) --> aaaa_record --> 2607:f8b0:400e:c06::1b (IPAddress)
+alt1.aspmx.l.google.com (FQDN) --> a_record --> 142.251.186.27 (IPAddress)
+alt2.aspmx.l.google.com (FQDN) --> a_record --> 142.250.141.26 (IPAddress)
+alt2.aspmx.l.google.com (FQDN) --> aaaa_record --> 2607:f8b0:4023:c0b::1b (IPAddress)
+scott.ns.cloudflare.com (FQDN) --> a_record --> 173.245.59.230 (IPAddress)
+scott.ns.cloudflare.com (FQDN) --> a_record --> 108.162.193.230 (IPAddress)
+scott.ns.cloudflare.com (FQDN) --> a_record --> 172.64.33.230 (IPAddress)
+scott.ns.cloudflare.com (FQDN) --> aaaa_record --> 2a06:98c1:50::ac40:21e6 (IPAddress)
+scott.ns.cloudflare.com (FQDN) --> aaaa_record --> 2606:4700:58::adf5:3be6 (IPAddress)
+scott.ns.cloudflare.com (FQDN) --> aaaa_record --> 2803:f800:50::6ca2:c1e6 (IPAddress)
+june.ns.cloudflare.com (FQDN) --> a_record --> 173.245.58.176 (IPAddress)
+june.ns.cloudflare.com (FQDN) --> a_record --> 108.162.192.176 (IPAddress)
+june.ns.cloudflare.com (FQDN) --> a_record --> 172.64.32.176 (IPAddress)
+june.ns.cloudflare.com (FQDN) --> aaaa_record --> 2803:f800:50::6ca2:c0b0 (IPAddress)
+june.ns.cloudflare.com (FQDN) --> aaaa_record --> 2606:4700:50::adf5:3ab0 (IPAddress)
+june.ns.cloudflare.com (FQDN) --> aaaa_record --> 2a06:98c1:50::ac40:20b0 (IPAddress)
+unsubscribes.ceipal.com (FQDN) --> a_record --> 104.198.232.240 (IPAddress)
+www.intellipaat.com (FQDN) --> a_record --> 104.18.26.176 (IPAddress)
+www.intellipaat.com (FQDN) --> a_record --> 104.18.27.176 (IPAddress)
+www.intellipaat.com (FQDN) --> aaaa_record --> 2606:4700::6812:1ab0 (IPAddress)
+www.intellipaat.com (FQDN) --> aaaa_record --> 2606:4700::6812:1bb0 (IPAddress)
+lms.intellipaat.com (FQDN) --> a_record --> 104.18.26.176 (IPAddress)
+lms.intellipaat.com (FQDN) --> a_record --> 104.18.27.176 (IPAddress)
+lms.intellipaat.com (FQDN) --> aaaa_record --> 2606:4700::6812:1bb0 (IPAddress)
+lms.intellipaat.com (FQDN) --> aaaa_record --> 2606:4700::6812:1ab0 (IPAddress)
+webdisk.intellipaat.com (FQDN) --> a_record --> 69.175.25.154 (IPAddress)
+cpcalendars.intellipaat.com (FQDN) --> a_record --> 69.175.25.154 (IPAddress)
+cpcontacts.intellipaat.com (FQDN) --> a_record --> 69.175.25.154 (IPAddress)
+mail.intellipaat.com (FQDN) --> a_record --> 104.18.27.176 (IPAddress)
+mail.intellipaat.com (FQDN) --> a_record --> 104.18.26.176 (IPAddress)
+mail.intellipaat.com (FQDN) --> aaaa_record --> 2606:4700::6812:1ab0 (IPAddress)
+mail.intellipaat.com (FQDN) --> aaaa_record --> 2606:4700::6812:1bb0 (IPAddress)
+mail.intellipaat.com (FQDN) --> a_record --> 188.114.98.229 (IPAddress)
+mail.intellipaat.com (FQDN) --> a_record --> 188.114.99.229 (IPAddress)
+cpanel.intellipaat.com (FQDN) --> a_record --> 69.175.25.154 (IPAddress)
+webmail.intellipaat.com (FQDN) --> a_record --> 69.175.7.170 (IPAddress)
+69.175.0.0/20 (Netblock) --> contains --> 69.175.7.170 (IPAddress)
+173.245.58.0/23 (Netblock) --> contains --> 173.245.59.230 (IPAddress)
+173.245.58.0/23 (Netblock) --> contains --> 173.245.58.176 (IPAddress)
+108.162.192.0/20 (Netblock) --> contains --> 108.162.193.230 (IPAddress)
+108.162.192.0/20 (Netblock) --> contains --> 108.162.192.176 (IPAddress)
+172.64.0.0/18 (Netblock) --> contains --> 172.64.33.230 (IPAddress)
+172.64.0.0/18 (Netblock) --> contains --> 172.64.32.176 (IPAddress)
+2a06:98c1:50::/46 (Netblock) --> contains --> 2a06:98c1:50::ac40:21e6 (IPAddress)
+2a06:98c1:50::/46 (Netblock) --> contains --> 2a06:98c1:50::ac40:20b0 (IPAddress)
+2803:f800:50::/45 (Netblock) --> contains --> 2803:f800:50::6ca2:c1e6 (IPAddress)
+2803:f800:50::/45 (Netblock) --> contains --> 2803:f800:50::6ca2:c0b0 (IPAddress)
+188.114.96.0/22 (Netblock) --> contains --> 188.114.98.229 (IPAddress)
+188.114.96.0/22 (Netblock) --> contains --> 188.114.99.229 (IPAddress)
+13335 (ASN) --> announces --> 173.245.58.0/23 (Netblock)
+13335 (ASN) --> announces --> 108.162.192.0/20 (Netblock)
+13335 (ASN) --> announces --> 172.64.0.0/18 (Netblock)
+13335 (ASN) --> announces --> 2a06:98c1:50::/46 (Netblock)
+13335 (ASN) --> announces --> 2803:f800:50::/45 (Netblock)
+32475 (ASN) --> managed_by --> SINGLEHOP-LLC - SingleHop, Inc. (RIROrganization)
+32475 (ASN) --> announces --> 69.175.0.0/20 (Netblock)
+0 (ASN) --> managed_by --> Not routed (RIROrganization)
+0 (ASN) --> announces --> 188.114.96.0/22 (Netblock)
+alt3.aspmx.l.google.com (FQDN) --> a_record --> 192.178.128.26 (IPAddress)
+alt3.aspmx.l.google.com (FQDN) --> aaaa_record --> 2607:f8b0:4023:2801::1a (IPAddress)
+alt4.aspmx.l.google.com (FQDN) --> a_record --> 142.251.186.26 (IPAddress)
+alt4.aspmx.l.google.com (FQDN) --> aaaa_record --> 2607:f8b0:4023:1::1a (IPAddress)
+192.178.0.0/15 (Netblock) --> contains --> 192.178.128.26 (IPAddress)
+2607:f8b0::/32 (Netblock) --> contains --> 2607:f8b0:400e:c06::1b (IPAddress)
+2607:f8b0::/32 (Netblock) --> contains --> 2607:f8b0:4023:1::1a (IPAddress)
+2607:f8b0::/32 (Netblock) --> contains --> 2607:f8b0:4023:2801::1a (IPAddress)
+2607:f8b0::/32 (Netblock) --> contains --> 2607:f8b0:4023:c0b::1b (IPAddress)
+2606:4700:50::/44 (Netblock) --> contains --> 2606:4700:50::adf5:3ab0 (IPAddress)
+2606:4700:50::/44 (Netblock) --> contains --> 2606:4700:58::adf5:3be6 (IPAddress)
+142.251.186.0/24 (Netblock) --> contains --> 142.251.186.26 (IPAddress)
+142.251.186.0/24 (Netblock) --> contains --> 142.251.186.27 (IPAddress)
+15169 (ASN) --> managed_by --> GOOGLE - Google LLC (RIROrganization)
+15169 (ASN) --> announces --> 192.178.0.0/15 (Netblock)
+15169 (ASN) --> announces --> 2607:f8b0::/32 (Netblock)
+15169 (ASN) --> announces --> 142.251.186.0/24 (Netblock)
+13335 (ASN) --> announces --> 2606:4700:50::/44 (Netblock)
+2607:f8b0::/32 (Netblock) --> contains --> 2607:f8b0:4023:c06::1a (IPAddress)
+142.250.141.0/24 (Netblock) --> contains --> 142.250.141.26 (IPAddress)
+104.198.224.0/19 (Netblock) --> contains --> 104.198.232.240 (IPAddress)
+142.251.2.0/24 (Netblock) --> contains --> 142.251.2.27 (IPAddress)
+69.175.0.0/18 (Netblock) --> contains --> 69.175.25.154 (IPAddress)
+15169 (ASN) --> managed_by --> AS15169 - Google LLC (RIROrganization)
+15169 (ASN) --> announces --> 142.250.141.0/24 (Netblock)
+15169 (ASN) --> announces --> 104.198.224.0/19 (Netblock)
+15169 (ASN) --> announces --> 142.251.2.0/24 (Netblock)
+32475 (ASN) --> announces --> 69.175.0.0/18 (Netblock)
+
+assetfinder --subs-only intellipaat.com
+
+intellipaat.com
+www.intellipaat.com
+courses.learn.intellipaat.com
+lms.intellipaat.com
+alpha.intellipaat.com
+app.intellipaat.com
+cdn.intellipaat.com
+cpanel.intellipaat.com
+cpcalendars.intellipaat.com
+cpcontacts.intellipaat.com
+elearning.intellipaat.com
+learn.intellipaat.com
+mail.intellipaat.com
+newlms.intellipaat.com
+server.intellipaat.com
+spam.intellipaat.com
+stage.intellipaat.com
+upgrade.intellipaat.com
+webdisk.intellipaat.com
+webmail.intellipaat.com
+unsubscribe.intellipaat.com
+intellipaat.com
+www.intellipaat.com
+intellipaat.com
+intellipaat.com
+apps.learn.intellipaat.com
+compete.learn.intellipaat.com
+courses.learn.intellipaat.com
+learn.intellipaat.com
+preview.learn.intellipaat.com
+studio.learn.intellipaat.com
+compete.learn.intellipaat.com
+courses.learn.intellipaat.com
+learn.intellipaat.com
+preview.learn.intellipaat.com
+studio.learn.intellipaat.com
+compete.learn.intellipaat.com
+courses.learn.intellipaat.com
+learn.intellipaat.com
+preview.learn.intellipaat.com
+studio.learn.intellipaat.com
+support.learn.intellipaat.com
+cpanel.intellipaat.com
+cpcalendars.intellipaat.com
+cpcontacts.intellipaat.com
+webdisk.intellipaat.com
+
+theHarvester -d intellipaat.com -b all -l 100
+
+                                                                                                   
+[*] ASNS found: 5                                                                                  
+--------------------                                                                               
+AS13335                                                                                            
+AS15169                                                                                            
+AS27647                                                                                            
+AS36351                                                                                            
+AS54113                                                                                            
+                                                                                                   
+[*] Interesting Urls found: 45                                                                     
+--------------------                                                                               
+https://courses.learn.intellipaat.com/certificates/36c18dc7766342bcbcc444ead7bdde21                
+https://courses.learn.intellipaat.com/certificates/ca7a96ad58804e1185d1adf1beeefb8a                
+https://intellipaat.com/                                                                           
+https://intellipaat.com/100%?US                                                                    
+https://intellipaat.com/?US                                                                        
+https://intellipaat.com/?utm_source=google&utm_medium=search&utm_term=intellipaat&utm_campaign=s_brand_cpc_in&gad_source=1&gclid=EAIaIQobChMIgsD64-rKggMVx6lmAh1xIwuWEAAYASAAEgLfgfD_BwE              
+https://intellipaat.com/academy/course/artificial-intelligence-free-course/                        
+https://intellipaat.com/aws-certification-training-online/?utm_source=linkedin&utm_medium=organic&utm_campaign=posting                                                                                
+https://intellipaat.com/blockchain-training-course/?US                                             
+https://intellipaat.com/blog/ai.php?ca%E2%80%A6                                                    
+https://intellipaat.com/blog/aws-vs-azure-vs-google-cloud/?utm_source=linkedin&utm_medium=organic&utm_campaign=posting                                                                                
+https://intellipaat.com/blog/azure-application-gateway/                                            
+https://intellipaat.com/blog/best-cyber-security-certifications/?utm_source=linkedin&utm_medium=organic&utm_campaign=posting&US                                                                       
+https://intellipaat.com/blog/cloud-architect-salary-in-india/?utm_source=linkedin&utm_medium=organic&utm_campaign=posting                                                                             
+https://intellipaat.com/blog/dax-power-bi/?utm_source=linkedin&utm_medium=organic&utm_campaign=posting                                                                                                
+https://intellipaat.com/blog/how-to-become-a-cyber-security-expert/?utm_source=linkedin&utm_medium=organic&utm_campaign=posting                                                                       
+https://intellipaat.com/blog/interview-question/cyber-security-interview-questions/                
+https://intellipaat.com/blog/interview-question/cyber-security-interview-questions/?US             
+https://intellipaat.com/blog/interview-question/db2-interview-questions/?utm_source=linkedin&utm_medium=organic&utm_campaign=posting                                                                  
+https://intellipaat.com/blog/interview-question/pl-sql-interview-questions/?utm_source=linkedin&utm_medium=organic&utm_campaign=posting                                                               
+https://intellipaat.com/blog/selenium-career-opportunities/?utm_source=linkedin&utm_medium=organic&utm_campaign=posting                                                                               
+https://intellipaat.com/blog/top-agile-certifications/?utm_source=linkedin&utm_medium=organic&utm_campaign=posting                                                                                    
+https://intellipaat.com/blog/top-cloud-certifications/?utm_source=linkedin&utm_medium=organic&utm_campaign=posting&US                                                                                 
+https://intellipaat.com/blog/top-cyber-security-skills/?utm_source=linkedin&utm_medium=organic&utm_campaign=posting                                                                                   
+https://intellipaat.com/blog/tutorial/devops-tutorial/ansible-basic-cheat-sheet/?utm_source=linkedin&utm_medium=organic&utm_campaign=posting&US                                                       
+https://intellipaat.com/blog/tutorial/devops-tutorial/puppet-cheat-sheet/?utm_source=linkedin&utm_medium=organic&utm_campaign=posting                                                                 
+https://intellipaat.com/blog/tutorial/python-tutorial/python-cheat-sheet-basics/?utm_source=linkedin&utm_medium=organic&utm_campaign=posting                                                          
+https://intellipaat.com/blog/tutorial/sql-tutorial/sql-cheat-sheet/?utm_source=linkedin&utm_medium=organic&utm_campaign=posting                                                                       
+https://intellipaat.com/blog/what-is-a-soc-analyst/                                                
+https://intellipaat.com/blog/what-is-social-engineering/?US                                        
+https://intellipaat.com/business-intelligence-masters-program-training/?utm_source=linkedin&utm_medium=organic&utm_campaign=posting                                                                   
+https://intellipaat.com/cloud-computing-devops-job-guarantee/?utm_source=google%26utm_medium=placement%26utm_campaign=p_discovery_custom_college_cloud_in_state%26gclid=CjwKCAiAy_CcBhBeEiwAcoMRHEiCTnMzYRszbnmr4y4PGkqyF-G2EPmh4I-vz6ZMPEGCQAX0Axc7JxoCFBYQAvD_BwE                                      
+https://intellipaat.com/cloud-computing-devops-job-guarantee/?utm_source=google&utm_medium=placement&utm_campaign=p_discovery_custom_college_cloud_in_state&gclid=CjwKCAiAy_CcBhBeEiwAcoMRHEiCTnMzYRszbnmr4y4PGkqyF-G2EPmh4I-vz6ZMPEGCQAX0Axc7JxoCFBYQAvD_BwE&US                                         
+https://intellipaat.com/cloud-devops-architect-masters-program-training/                           
+https://intellipaat.com/cloud-devops-architect-masters-program-training/?utm_source=linkedin&utm_medium=organic&utm_campaign=posting                                                                  
+https://intellipaat.com/community/14827/sql-delete-with-inner-join                                 
+https://intellipaat.com/community/45634/how-to-remove-rows-from-a-categorical-variable-whose-value-counts-do-not-satisfy-a-condition                                                                  
+https://intellipaat.com/data-analytics-master-training-course/?utm_source=linkedin&utm_medium=organic&utm_campaign=posting                                                                            
+https://intellipaat.com/devops-certification-training/?utm_source=linkedin&utm_medium=organic&utm_campaign=posting&US                                                                                 
+https://intellipaat.com/electric-vehicle-design-course/?msclkid=629f8efbae171754dbe5e8669cfddc83&utm_source=bing&utm_medium=cpc&utm_campaign=Bing_Audience_Buyer_IN&utm_content=DS-RMK                
+https://intellipaat.com/media                                                                      
+https://intellipaat.com/microsoft-sql-server-certification-training/?utm_source=linkedin&utm_medium=organic&utm_campaign=posting&US                                                                   
+https://intellipaat.com/salesforce-training/?utm_source=linkedin&utm_medium=organic&utm_campaign=posting                                                                                              
+https://lms.intellipaat.com/login/                                                                 
+https://lms.intellipaat.com/wp-admin/admin-ajax.php                                                
+                                                                                                   
+[*] LinkedIn Links found: 0                                                                        
+---------------------                                                                              
+                                                                                                   
+[*] IPs found: 59                                                                                  
+-------------------                                                                                
+104.18.26.176                                                                                      
+104.18.27.176                                                                                      
+104.198.232.240                                                                                    
+104.20.37.203                                                                                      
+104.20.38.203                                                                                      
+104.22.50.112                                                                                      
+104.22.51.112                                                                                      
+104.25.220.25                                                                                      
+104.25.221.25                                                                                      
+104.27.160.33                                                                                      
+104.27.161.33                                                                                      
+106.187.102.220                                                                                    
+151.139.240.1                                                                                      
+151.139.241.22                                                                                     
+162.133.128.138                                                                                    
+162.133.129.79                                                                                     
+162.133.131.56                                                                                     
+162.133.140.176                                                                                    
+165.192.128.135                                                                                    
+165.192.128.64                                                                                     
+165.192.133.205                                                                                    
+165.225.80.40                                                                                      
+169.38.81.194                                                                                      
+169.38.95.226                                                                                      
+169.38.95.227                                                                                      
+169.38.95.228                                                                                      
+169.38.95.231                                                                                      
+169.38.95.232                                                                                      
+169.38.95.235                                                                                      
+169.38.95.236                                                                                      
+169.38.95.237                                                                                      
+169.38.95.238                                                                                      
+172.67.31.242                                                                                      
+184.107.51.209                                                                                     
+188.114.96.3                                                                                       
+188.114.97.3                                                                                       
+192.124.249.2                                                                                      
+2001:4860:4802:34::180                                                                             
+203.124.113.1                                                                                      
+2606:4700:3031::6815:43ed                                                                          
+2606:4700:3032::ac43:bf77                                                                          
+2606:4700:3108::ac42:286a                                                                          
+2606:4700:3108::ac42:2b96                                                                          
+2606:4700::6812:1ab0                                                                               
+2606:4700::6812:1bb0                                                                               
+2606:50c0:8002::153                                                                                
+2a06:98c1:3120::3                                                                                  
+45.33.79.77                                                                                        
+52.6.34.242                                                                                        
+67.225.221.78                                                                                      
+69.175.25.154                                                                                      
+74.115.51.8                                                                                        
+74.115.51.9                                                                                        
+                                                                                                   
+[*] Emails found: 1                                                                                
+----------------------                                                                             
+legal@intellipaat.com                                                                              
+                                                                                                   
+[*] Hosts found: 46                                                                                
+---------------------                                                                              
+*.intellipaat.com                                                                                  
+affiliates.intellipaat.com                                                                         
+alpha.intellipaat.com                                                                              
+alpha.intellipaat.com:104.18.26.176                                                                
+app.intellipaat.com                                                                                
+app.intellipaat.com:104.18.26.176                                                                  
+apps.learn.intellipaat.com                                                                         
+cdn.intellipaat.com                                                                                
+cdn.intellipaat.com:104.18.26.176                                                                  
+coi.intellipaat.com                                                                                
+compete.learn.intellipaat.com                                                                      
+courses.learn.intellipaat.com                                                                      
+cpanel.intellipaat.com                                                                             
+cpanel.intellipaat.com:69.175.25.154                                                               
+cpcalendars.intellipaat.com                                                                        
+cpcalendars.intellipaat.com:69.175.25.154                                                          
+cpcontacts.intellipaat.com                                                                         
+cpcontacts.intellipaat.com:69.175.25.154                                                           
+cpi.intellipaat.com                                                                                
+elearning.intellipaat.com                                                                          
+elearning.intellipaat.com:104.18.26.176                                                            
+learn.intellipaat.com                                                                              
+learn.intellipaat.com:104.18.27.176                                                                
+lms.intellipaat.com                                                                                
+lms.intellipaat.com:104.18.27.176                                                                  
+mail.intellipaat.com                                                                               
+mail.intellipaat.com:104.18.26.176                                                                 
+newlms.intellipaat.com                                                                             
+newlms.intellipaat.com:104.18.27.176                                                               
+preview.learn.intellipaat.com                                                                      
+server.intellipaat.com                                                                             
+server.intellipaat.com:104.18.27.176                                                               
+spam.intellipaat.com                                                                               
+spam.intellipaat.com:104.18.27.176                                                                 
+stage.intellipaat.com                                                                              
+stage.intellipaat.com:104.18.27.176                                                                
+studio.learn.intellipaat.com                                                                       
+support.learn.intellipaat.com                                                                      
+test.intellipaat.com                                                                               
+unsubscribe.intellipaat.com                                                                        
+upgrade.intellipaat.com                                                                            
+upgrade.intellipaat.com:3.239.161.55                                                               
+webdisk.intellipaat.com                                                                            
+webdisk.intellipaat.com:69.175.25.154                                                              
+webmail.intellipaat.com                                                                            
+webmail.intellipaat.com:69.175.7.170 
+ 
+dnsrecon -d intellipaat.com -t brt               
+[*] No dictionary file has been specified.
+[*] Using the dictionary file: /usr/share/dnsrecon/dnsrecon/data/namelist.txt (provided by tool)
+[*] brt: Performing host and subdomain brute force against intellipaat.com...
+[+]      A ftp.intellipaat.com 69.175.25.154
+[+]      A jobs.intellipaat.com 104.18.26.176
+[+]      A jobs.intellipaat.com 104.18.27.176
+[+]      AAAA jobs.intellipaat.com 2606:4700::6812:1ab0
+[+]      AAAA jobs.intellipaat.com 2606:4700::6812:1bb0
+[+]      A mail.intellipaat.com 104.18.27.176
+[+]      A mail.intellipaat.com 104.18.26.176
+[+]      AAAA mail.intellipaat.com 2606:4700::6812:1ab0
+[+]      AAAA mail.intellipaat.com 2606:4700::6812:1bb0
+[+]      A mailer.intellipaat.com 104.18.27.176
+[+]      A mailer.intellipaat.com 104.18.26.176
+[+]      AAAA mailer.intellipaat.com 2606:4700::6812:1bb0
+[+]      AAAA mailer.intellipaat.com 2606:4700::6812:1ab0
+[+]      A mta.intellipaat.com 104.18.27.176
+[+]      A mta.intellipaat.com 104.18.26.176
+[+]      AAAA mta.intellipaat.com 2606:4700::6812:1bb0
+[+]      AAAA mta.intellipaat.com 2606:4700::6812:1ab0
+[+]      A test.intellipaat.com 104.18.26.176
+[+]      A test.intellipaat.com 104.18.27.176
+[+]      AAAA test.intellipaat.com 2606:4700::6812:1bb0
+[+]      AAAA test.intellipaat.com 2606:4700::6812:1ab0
+[+]      A webmail.intellipaat.com 69.175.7.170
+[+]      A www.intellipaat.com 104.18.27.176
+[+]      A www.intellipaat.com 104.18.26.176
+[+]      AAAA www.intellipaat.com 2606:4700::6812:1bb0
+[+]      AAAA www.intellipaat.com 2606:4700::6812:1ab0
+[+] 26 Records Found
+
+
+ffuf -w /home/msafa/Downloads/subdomainbrute.txt -u https://FUZZ.intellipaat.com
+
+        /'___\  /'___\           /'___\       
+       /\ \__/ /\ \__/  __  __  /\ \__/       
+       \ \ ,__\\ \ ,__\/\ \/\ \ \ \ ,__\      
+        \ \ \_/ \ \ \_/\ \ \_\ \ \ \ \_/      
+         \ \_\   \ \_\  \ \____/  \ \_\       
+          \/_/    \/_/   \/___/    \/_/       
+
+       v2.1.0-dev
+________________________________________________
+
+ :: Method           : GET
+ :: URL              : https://FUZZ.intellipaat.com
+ :: Wordlist         : FUZZ: /home/msafa/Downloads/subdomainbrute.txt
+ :: Follow redirects : false
+ :: Calibration      : false
+ :: Timeout          : 10
+ :: Threads          : 40
+ :: Matcher          : Response status: 200-299,301,302,307,401,403,405,500
+________________________________________________
+
+mail                    [Status: 301, Size: 0, Words: 1, Lines: 1, Duration: 398ms]
+www                     [Status: 301, Size: 167, Words: 5, Lines: 8, Duration: 64ms]
+jobs                    [Status: 200, Size: 142522, Words: 15155, Lines: 1175, Duration: 298ms]
+lms                     [Status: 302, Size: 82124, Words: 5409, Lines: 766, Duration: 340ms]
+mta                     [Status: 403, Size: 16, Words: 3, Lines: 1, Duration: 64ms]
+:: Progress: [19966/19966] :: Job [1/1] :: 204 req/sec :: Duration: [0:04:06] :: Errors: 19958 ::
+                                                                                                     

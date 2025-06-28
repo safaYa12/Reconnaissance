@@ -1,0 +1,214 @@
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+
+NetRange:       104.16.0.0 - 104.31.255.255
+CIDR:           104.16.0.0/12
+NetName:        CLOUDFLARENET
+NetHandle:      NET-104-16-0-0-1
+Parent:         NET104 (NET-104-0-0-0-0)
+NetType:        Direct Allocation
+OriginAS:       AS13335
+Organization:   Cloudflare, Inc. (CLOUD14)
+RegDate:        2014-03-28
+Updated:        2024-09-04
+Comment:        All Cloudflare abuse reporting can be done via https://www.cloudflare.com/abuse
+Comment:        Geofeed: https://api.cloudflare.com/local-ip-ranges.csv
+Ref:            https://rdap.arin.net/registry/ip/104.16.0.0
+
+
+
+OrgName:        Cloudflare, Inc.
+OrgId:          CLOUD14
+Address:        101 Townsend Street
+City:           San Francisco
+StateProv:      CA
+PostalCode:     94107
+Country:        US
+RegDate:        2010-07-09
+Updated:        2024-11-25
+Ref:            https://rdap.arin.net/registry/entity/CLOUD14
+
+
+OrgRoutingHandle: CLOUD146-ARIN
+OrgRoutingName:   Cloudflare-NOC
+OrgRoutingPhone:  +1-650-319-8930 
+OrgRoutingEmail:  noc@cloudflare.com
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/CLOUD146-ARIN
+
+OrgAbuseHandle: ABUSE2916-ARIN
+OrgAbuseName:   Abuse
+OrgAbusePhone:  +1-650-319-8930 
+OrgAbuseEmail:  abuse@cloudflare.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE2916-ARIN
+
+OrgNOCHandle: CLOUD146-ARIN
+OrgNOCName:   Cloudflare-NOC
+OrgNOCPhone:  +1-650-319-8930 
+OrgNOCEmail:  noc@cloudflare.com
+OrgNOCRef:    https://rdap.arin.net/registry/entity/CLOUD146-ARIN
+
+OrgTechHandle: ADMIN2521-ARIN
+OrgTechName:   Admin
+OrgTechPhone:  +1-650-319-8930 
+OrgTechEmail:  rir@cloudflare.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/ADMIN2521-ARIN
+
+RAbuseHandle: ABUSE2916-ARIN
+RAbuseName:   Abuse
+RAbusePhone:  +1-650-319-8930 
+RAbuseEmail:  abuse@cloudflare.com
+RAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE2916-ARIN
+
+RNOCHandle: NOC11962-ARIN
+RNOCName:   NOC
+RNOCPhone:  +1-650-319-8930 
+RNOCEmail:  noc@cloudflare.com
+RNOCRef:    https://rdap.arin.net/registry/entity/NOC11962-ARIN
+
+RTechHandle: ADMIN2521-ARIN
+RTechName:   Admin
+RTechPhone:  +1-650-319-8930 
+RTechEmail:  rir@cloudflare.com
+RTechRef:    https://rdap.arin.net/registry/entity/ADMIN2521-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2025, American Registry for Internet Numbers, Ltd.
+#
+
+   Domain Name: INTELLIPAAT.COM
+   Registry Domain ID: 1649154365_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.godaddy.com
+   Registrar URL: http://www.godaddy.com
+   Updated Date: 2024-03-26T13:41:16Z
+   Creation Date: 2011-04-04T17:42:10Z
+   Registry Expiry Date: 2026-04-04T17:42:10Z
+   Registrar: GoDaddy.com, LLC
+   Registrar IANA ID: 146
+   Registrar Abuse Contact Email: abuse@godaddy.com
+   Registrar Abuse Contact Phone: 480-624-2505
+   Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+   Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+   Name Server: JUNE.NS.CLOUDFLARE.COM
+   Name Server: SCOTT.NS.CLOUDFLARE.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2025-01-01T15:27:45Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+Domain Name: INTELLIPAAT.COM
+Registry Domain ID: 1649154365_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: https://www.godaddy.com
+Updated Date: 2024-03-26T08:41:15Z
+Creation Date: 2011-04-04T12:42:10Z
+Registrar Registration Expiration Date: 2026-04-04T12:42:10Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Registration Private
+Registrant Organization: Domains By Proxy, LLC
+Registrant Street: DomainsByProxy.com
+Registrant Street: 100 S. Mill Ave, Suite 1600
+Registrant City: Tempe
+Registrant State/Province: Arizona
+Registrant Postal Code: 85281
+Registrant Country: US
+Registrant Phone: +1.4806242599
+Registrant Phone Ext:
+Registrant Fax: 
+Registrant Fax Ext:
+Registrant Email: Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=INTELLIPAAT.COM
+Registry Tech ID: Not Available From Registry
+Tech Name: Registration Private
+Tech Organization: Domains By Proxy, LLC
+Tech Street: DomainsByProxy.com
+Tech Street: 100 S. Mill Ave, Suite 1600
+Tech City: Tempe
+Tech State/Province: Arizona
+Tech Postal Code: 85281
+Tech Country: US
+Tech Phone: +1.4806242599
+Tech Phone Ext:
+Tech Fax: 
+Tech Fax Ext:
+Tech Email: Select Contact Domain Holder link at https://www.godaddy.com/whois/results.aspx?domain=INTELLIPAAT.COM
+Name Server: JUNE.NS.CLOUDFLARE.COM
+Name Server: SCOTT.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2025-01-01T15:27:58Z <<<
+For more information on Whois status codes, please visit https://icann.org/epp
+
+TERMS OF USE: The data contained in this registrar's Whois database, while believed by the
+registrar to be reliable, is provided "as is" with no guarantee or warranties regarding its
+accuracy. This information is provided for the sole purpose of assisting you in obtaining
+information about domain name registration records. Any use of this data for any other purpose
+is expressly forbidden without the prior written permission of this registrar. By submitting
+an inquiry, you agree to these terms and limitations of warranty. In particular, you agree not
+to use this data to allow, enable, or otherwise support the dissemination or collection of this
+data, in part or in its entirety, for any purpose, such as transmission by e-mail, telephone,
+postal mail, facsimile or other means of mass unsolicited, commercial advertising or solicitations
+of any kind, including spam. You further agree not to use this data to enable high volume, automated
+or robotic electronic processes designed to collect or compile this data for any purpose, including
+mining this data for your own personal or commercial purposes. Failure to comply with these terms
+may result in termination of access to the Whois database. These terms may be subject to modification
+at any time without notice.
+

@@ -1,0 +1,11 @@
+SEO performance using pagespeed insight:
+ Core Web Vitals (CWV) assessment failed:-
+https://pagespeed.web.dev/analysis/https-intellipaat-com/7z1c4pakr2?form_factor=mobile
+https://pagespeed.web.dev/analysis/https-intellipaat-com/7z1c4pakr2?form_factor=desktop
+in Desktop session:-
+FACTORS CONTRIBUTING LESS PERFORMANCE FOR THE WEBSITE AS PER PAGESPEED DATA:-
+FCP - 2.0s , It have to be less than 1.8s
+LCP - 2.6S , It have to be less than 2.5s
+SEO - 85 which is okay but will better if improved
+in mobile session:-
+There are several factors limitting the performance of website affecting user experience from being best.as it is a low limitation but comparing with other competitors still need improvement . CWV failure seems common in mobile experience , but some competitors have passed in atleast desktop experience .

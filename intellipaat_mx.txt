@@ -1,0 +1,24 @@
+
+; <<>> DiG 9.20.3-1-Debian <<>> MX intellipaat.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 51851
+;; flags: qr rd ra; QUERY: 1, ANSWER: 5, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 1472
+;; QUESTION SECTION:
+;intellipaat.com.		IN	MX
+
+;; ANSWER SECTION:
+intellipaat.com.	1171	IN	MX	5 alt1.aspmx.l.google.com.
+intellipaat.com.	1171	IN	MX	5 alt2.aspmx.l.google.com.
+intellipaat.com.	1171	IN	MX	1 aspmx.l.google.com.
+intellipaat.com.	1171	IN	MX	10 alt3.aspmx.l.google.com.
+intellipaat.com.	1171	IN	MX	10 alt4.aspmx.l.google.com.
+
+;; Query time: 19 msec
+;; SERVER: 192.168.0.1#53(192.168.0.1) (UDP)
+;; WHEN: Wed Jan 01 21:14:43 +06 2025
+;; MSG SIZE  rcvd: 159
+

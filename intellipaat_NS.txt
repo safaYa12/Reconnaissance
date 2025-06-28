@@ -1,0 +1,43 @@
+
+; <<>> DiG 9.20.3-1-Debian <<>> NS intellipaat.com
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 57532
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 4096
+;; QUESTION SECTION:
+;intellipaat.com.		IN	NS
+
+;; ANSWER SECTION:
+intellipaat.com.	86398	IN	NS	june.ns.cloudflare.com.
+intellipaat.com.	86398	IN	NS	scott.ns.cloudflare.com.
+
+;; Query time: 2607 msec
+;; SERVER: 192.168.0.1#53(192.168.0.1) (UDP)
+;; WHEN: Wed Jan 01 20:38:06 +06 2025
+;; MSG SIZE  rcvd: 97
+
+Server:		192.168.0.1
+Address:	192.168.0.1#53
+
+Non-authoritative answer:
+intellipaat.com	nameserver = june.ns.cloudflare.com.
+intellipaat.com	nameserver = scott.ns.cloudflare.com.
+
+Authoritative answers can be found from:
+
+Server:		192.168.0.1
+Address:	192.168.0.1#53
+
+Non-authoritative answer:
+Name:	intellipaat.com
+Address: 104.18.26.176
+Name:	intellipaat.com
+Address: 104.18.27.176
+Name:	intellipaat.com
+Address: 2606:4700::6812:1ab0
+Name:	intellipaat.com
+Address: 2606:4700::6812:1bb0
+
